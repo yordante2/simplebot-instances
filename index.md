@@ -27,6 +27,7 @@ To see supported commands send `/help` to the bots.
 | [writefreely@hispanilandia.net]   | WriteFreely/DeltaChat bridge                                | 🇺🇸       | 24h                                    | [adbenitez]   |
 | [web2pdf@hispanilandia.net]       | Web to PDF converter                                        | 🇺🇸       | 24h                                    | [adbenitez]   |
 | [xkcd@hispanilandia.net]          | A bot to fetch comics from xkcd.com                         | 🇺🇸       | 24h                                    | [adbenitez]   |
+| yordantemail@gmail.com            | Bot de subida a páginas Moodle cubanas                      | 🇪🇸       | 24h                                    | [yordante]    |
 
 ## Yggmail
 
@@ -42,6 +43,7 @@ Click the bot address to start a chat.
 [adbenitez]: mailto:adbenitez@nauta.cu
 [Nelson]: mailto:nelsonr9608@nauta.cu
 [Yordante]: mailto:aliandiaz94@nauta.cu
+[yordante]: mailto:aliandiaz94@nauta.cu
 
 [439a18f3692be6cc3bdf...]: mailto:439a18f3692be6cc3bdf724994d6027a1dc457ef8adf33d68564205c03b3ad46@yggmail
 
